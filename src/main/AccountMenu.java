@@ -20,7 +20,7 @@ public class AccountMenu {
 				System.out.println("1. View Balance");
 				System.out.println("2. Make Withdraw");
 				System.out.println("3. Make Deposit");
-				System.out.println("4. Save Account Details");
+				System.out.println("4. Save Accounts");
 				System.out.println("5. Read Account Details");
 				System.out.println("Enter 0 to exit");
 				choice = keyIn.nextInt();
