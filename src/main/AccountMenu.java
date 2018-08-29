@@ -16,7 +16,7 @@ public class AccountMenu {
 		try {
 			do {
 
-				System.out.println("///**** Account Menu ****///");
+				System.out.println("///**** Account Main Menu ****///");
 				System.out.println("1. View Balance");
 				System.out.println("2. Make Withdraw");
 				System.out.println("3. Make Deposit");
